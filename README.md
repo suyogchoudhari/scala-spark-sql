@@ -2,6 +2,7 @@
 scala spark sql example
 
 Problem statement
+
 There are two datasets:
 
 User information (id, email, language, location) - provided sample txt file in code transactions_test.txt
